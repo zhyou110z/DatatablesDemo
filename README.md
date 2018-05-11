@@ -279,7 +279,7 @@ public class Consumer {
 查看消费者：
 ![Alt text](./1492422960059.png)
 
-很遗憾，官方Dubbo网址早已不维护了，也出现了很多更新的Dubbo，比如当当网的Dubbox，可以自行了解。
+
 
 整个项目的代码已经上传到我的github上，欢迎查看。
 
